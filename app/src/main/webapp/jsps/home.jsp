@@ -29,6 +29,11 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <
 <hr>
+<div style="text-align: center;">
+	<span>
+		<img src="images/accesa.png" alt="" width="100">
+	</span>
+</div>
 <hr>
 <p align=center>DevOps CA</p>
 <p align=center><small>Copyrights 2022 -  Training Accesa </small></p>
